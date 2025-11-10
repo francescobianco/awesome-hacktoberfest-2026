@@ -21,6 +21,7 @@
 
 ## Repositories Coding for Beginners
 
+- [Traffic Accidents Analysis](https://github.com/alpi248/data-science-notebook )
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
