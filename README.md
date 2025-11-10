@@ -28,6 +28,7 @@
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [HacktoberFest-Projects](https://github.com/Atharv-Attri/HacktoberFest-Projects/)
 - [Smart Contract Snippets](https://github.com/rohitroy-github/smart-contract-snippets)
+- [Network Snipper](https://github.com/RazaJavaid2004/CodeAlpha_Basic-Network-Sniffer)
 
 ## Repositories for intermediate/Advanced Coders
 
